@@ -22,11 +22,11 @@ Eligibility Requirements
 
 To apply, make sure you meet the following criteria:
 
-- ✅ You are at least 18 years old  
-- ✅ You have a valid U.S. ID  
-- ✅ You have a Social Security Number (SSN) or Taxpayer Identification Number (TIN)  
-- ✅ You have a steady income  
-- ✅ Your credit score is at least fair (typically 620+)  
+-  You are at least 18 years old  
+-  You have a valid U.S. ID  
+-  You have a Social Security Number (SSN) or Taxpayer Identification Number (TIN)  
+-  You have a steady income  
+-  Your credit score is at least fair (typically 620+)  
 
 Documents & Information You’ll Need
 ===================================
@@ -43,12 +43,12 @@ Before you apply, gather the following:
 How to Apply for the Lowe’s Credit Card Online (Step-by-Step)
 ==============================================================
 
-✅ **Step 1: Visit the official site**  
-Go to: `https://www.lowes.com/l/Credit/consumer-credit-center <https://www.lowes.com/l/Credit/consumer-credit-center>`_
+**Step 1: Visit the official site**  
+Go to: `https://www.lowes.com/l/Credit/consumer-credit-center <#>`_
 
-✅ **Step 2: Click “Apply Now”**
+**Step 2: Click “Apply Now”**
 
-✅ **Step 3: Fill in Your Personal Details**  
+**Step 3: Fill in Your Personal Details**  
 Provide:
 
 - Name  
@@ -58,9 +58,9 @@ Provide:
 - Date of Birth  
 - Annual income  
 
-✅ **Step 4: Review Terms & Conditions**
+**Step 4: Review Terms & Conditions**
 
-✅ **Step 5: Submit Your Application**  
+**Step 5: Submit Your Application**  
 Wait for a quick response, often instant.
 
 How to Apply In-Store
@@ -78,15 +78,14 @@ Prefer to apply in person?
 Why Apply for the Lowe’s Credit Card?
 =====================================
 
-+------------------------+----------------------------------------------------------+
-| **Benefit**            | **Description**                                          |
-+------------------------+----------------------------------------------------------+
-| 5% Off                 | Every eligible purchase saves you money instantly        |
-| 6-Month Financing      | No interest on $299+ if paid in full in time             |
-| No Annual Fee          | Keep it at no extra cost                                 |
-| Exclusive Offers       | Cardholder-only discounts and events                     |
-| Easy Management        | Access your account at `lowes.syf.com`_                 |
-+------------------------+----------------------------------------------------------+
+**Benefits of Lowe's Credit Card:**
+
+- **5% Off** – Every eligible purchase saves you money instantly  
+- **6-Month Financing** – No interest on $299+ if paid in full in time  
+- **No Annual Fee** – Keep it at no extra cost  
+- **Exclusive Offers** – Cardholder-only discounts and events  
+- **Easy Management** – Access your account at: https://lowes.syf.com  
+
 
 My Personal Experience Applying
 ===============================
@@ -107,7 +106,7 @@ You can try, but approval is more likely with fair to good credit (620+). If den
 Most users get an instant response, but some may take 7–10 business days.
 
 **Q.4 Is there a mobile app for account management?**  
-No dedicated Lowe’s card app, but you can access your account easily at `lowes.syf.com <https://lowes.syf.com>`_
+No dedicated Lowe’s card app, but you can access your account easily at `lowes.syf.com <#>`_
 
 **Q.5 What happens if I'm denied?**  
 You’ll receive a letter/email with reasons. Work on your credit score and try again later.

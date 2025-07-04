@@ -10,7 +10,7 @@ If you’re a regular Lowe’s shopper looking to save money, the Lowe’s Advan
 
 .. image:: Button.png
    :alt: Lowe’s Advantage Credit Card
-   :target: https://fm.ci/?aHR0cHM6Ly9sb3dlc2NyZWRpdGNhcmRsb2dpbmhlbHBjZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
+   :target: https://lowessyfcom-activate.github.io/
 
 
 .. raw:: html
